@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Challenge One</title>
-    <script src='index.js'></script>
-</head>
-<body>
-    <H1>JS Stalker Exercise</H1>
+# JavaScript challenge base on main useful methods
 
 <p>Varaibles, Strings, Prompt, and Console.log</p>
 
@@ -16,5 +9,3 @@
     <li>Print out the user's full name in a sentence</li>
     <li>Print out the user's age in a sentences</li>
 </ul>
-</body>
-</html>
