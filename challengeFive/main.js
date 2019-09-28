@@ -20,7 +20,7 @@ for (var number = 300; number < 334; number++) {
 // print all numbers divisible between 5 and 3 between 5 and 50
 
 for(var fourthNumber = 5; fourthNumber <= 50; fourthNumber++){
-    if(fourthNumber % 3 == 0 && fourthNumber % 5 == 0){
+    if(fourthNumber % 3 === 0 && fourthNumber % 5 === 0){
         console.log(fourthNumber);
     }
 }
