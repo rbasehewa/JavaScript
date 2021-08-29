@@ -10,4 +10,6 @@ DOM = bunch of javascripts represents on web page..!
 <li>querySelector</li>
 <li>innerHTML and Text</li>
 <li>changing styles</li>
+<li>ClassList</li>
+<li>Creating/Removing elements</li>
 </ol>
