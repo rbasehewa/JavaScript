@@ -13,3 +13,7 @@ DOM = bunch of javascripts represents on web page..!
 <li>ClassList</li>
 <li>Creating/Removing elements</li>
 </ol>
+
+<ul>
+<li>Manipulating Attributes</li>
+</ul>
