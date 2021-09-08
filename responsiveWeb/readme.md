@@ -1,0 +1,1 @@
+# W3 school examples practise for responsive webs
